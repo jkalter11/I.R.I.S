@@ -16,7 +16,7 @@
     </category>
     
     <category>
-        <pattern>JARVIS</pattern>
+        <pattern>IRIS</pattern>
         <template>
             <random>
                 <li>Welcome home sir!</li> 
@@ -60,14 +60,14 @@
     </category>
 
     <category>
-        <pattern>JARVIS *</pattern>
+        <pattern>IRIS *</pattern>
         <template>
             <srai><star/></srai>
         </template>
     </category>
 
     <category>
-        <pattern>* JARVIS</pattern>
+        <pattern>* IRIS</pattern>
         <template>
             <srai><star/></srai>
         </template>
@@ -76,56 +76,56 @@
     <category>
         <pattern>WHAT ARE YOU</pattern>
         <template>
-            I'm J.A.R.V.I.S
+            I'm I.R.I.S
         </template>
     </category>
 
     <category>
         <pattern>WHO CREATED YOU</pattern>
         <template>
-            Nihal Singh created me!
+            Joseph Kalter created me!
         </template>
     </category>
 
     <category>
         <pattern>WHO MADE YOU</pattern>
         <template>
-            Nihal Singh made me!
+            Joseph Kalter made me!
         </template>
     </category>
 
     <category>
-        <pattern>WHO CREATED JARVIS</pattern>
+        <pattern>WHO CREATED IRIS</pattern>
         <template>
-            Nihal Singh created me!
+           Joseph Kalter created me!
         </template>
     </category>
 
     <category>
         <pattern>WHO IS YOUR CREATOR</pattern>
         <template>
-            Nihal Singh created me!
+            Joseph Kalter created me!
         </template>
     </category>
 
     <category>
-        <pattern>WHO IS NIHAL SINGH</pattern>
+        <pattern>WHO IS Joseph Kalter</pattern>
         <template>
-            Nihal Singh is my father!
+            Joseph Kalter is my father!
         </template>
     </category>
 
     <category>
-        <pattern>WHO IS nihal111</pattern>
+        <pattern>WHO IS jkalter11</pattern>
         <template>
-            nihal111 is Nihal Singh.
+            jkalter11 is Joseph Kalter.
         </template>
     </category>
 
     <category>
         <pattern>WHO IS YOUR FATHER</pattern>
         <template>
-            Nihal Singh is my father.
+            Joseph Kalter is my father.
         </template>
     </category>
 
@@ -137,26 +137,20 @@
     </category>
 
     <category>
-        <pattern>WHAT DOES JARVIS STAND FOR</pattern>
+        <pattern>WHAT DOES IRIS STAND FOR</pattern>
         <template>
-            JARVIS stands for Just A Rather Very Intelligent System
+            IRIS stands for Intelligent Recognitive Iconolatry System
         </template>
     </category>
 
     <category>
-        <pattern>WHO IS IRON MAN</pattern>
+        <pattern>WHO IS Joseph Kalter</pattern>
         <template>
-            Iron man is the one who created me.
+            Joseph Kalter is the one who created me.
         </template>
     </category>
 
-    <category>
-        <pattern>WHO IS THE REAL IRON MAN</pattern>
-        <template>
-            The real Iron Man is Tony Stark.
-        </template>
-    </category>
-
+   
     <category>
         <pattern>WHAT TIME IS IT</pattern>
         <template>
